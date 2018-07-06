@@ -1,0 +1,12 @@
+Sparse-view Reconstruction can be used to provide accelerated low dose CT imaging with both 
+accelerated scan and reduced projection/back-projection calculation.Despite the rapid developments, 
+image noise and artifacts still remain a major issue in the low dose protocol. In this paper, 
+a deep learning based method named Improved GoogLeNet is proposed to remove streak artifacts 
+due to projection missing in sparse-view CT reconstruction.Residual learning is used in GoogLeNet 
+to study the artifacts of sparse-view CT reconstruction, and then subtracts the artifacts obtained 
+by learning from the sparse reconstructed images, finally recovers a clear correction image.
+The intensity of reconstruction using the proposed method is very close to the full-view projective 
+reconstructed image. The results indicate that the proposed method is practical and effective for 
+reducing the artifacts and preserving the quality of the reconstructed image.
+
+See the URL for specific content ：https://www.nature.com/articles/s41598-018-25153-w
